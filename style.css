@@ -1,0 +1,43 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+}
+
+h1 {
+    font: 600 3.5em;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+    display: inline-block;
+    border: outset;
+    border-spacing: 2em;
+    border-width: .3em
+}
+
+h3 {
+	font: 900 1em ;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
+.c1{
+  width: 10%;
+  padding: 2px 2px;
+  margin: 8px 0;
+  align-items: center;
+}
+.c2{
+  width: 10%;
+  padding: 2px 2px;
+  margin: 8px 0;
+  align-items: center;
+}
