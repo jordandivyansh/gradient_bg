@@ -1,6 +1,6 @@
 body {
 	font-family: 'Montserrat', sans-serif;
-    color: rgba(0,0,0,.5);
+    color: rgba(0,0,0);
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
@@ -41,3 +41,36 @@ h3 {
   margin: 8px 0;
   align-items: center;
 }
+
+.button {
+  border: dashed;
+  padding: 16px 32px;
+  box-shadow: 3px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 1s;
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #000000;
+  color: white;
+}
+
+.c1:hover {
+  background-color: #000000;
+  color: white;
+}
+
+.c2:hover {
+  background-color: #000000;
+  color: white;
+}
+
