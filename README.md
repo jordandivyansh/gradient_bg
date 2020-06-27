@@ -12,6 +12,6 @@
 - JavaScript
 
 ### Usage
-- Clone the repo and run index.html or [Clock](https://jordandivyansh.github.io/gradient_bg/)
+- Clone the repo and run index.html or [Gradient_BG](https://jordandivyansh.github.io/gradient_bg/)
 
 #### [Divyansh Kumar](https://jordandivyansh.github.io/divyanshkumar)
